@@ -80,7 +80,7 @@ A curated list of amphp packages
 - [amphp/dns](https://github.com/amphp/dns) - Async DNS resolution
 - [ridge](https://github.com/phpinnacle/ridge) - Pure asynchronous PHP implementation of the AMQP 0-9-1 protocol
 - [cassis](https://github.com/phpinnacle/cassis) - Pure PHP asynchronous implementation of the Cassandra V4 binary protocol
-- [Wind frameowrk](https://github.com/wind-framework/wind-framework) - Pure PHP Coroutine Framework based on Workerman and Amphp
+- [Wind framework](https://github.com/wind-framework/wind-framework) - Pure PHP Coroutine Framework based on Workerman and Amphp
 - [ESB](https://github.com/webgriffe/esb) - Simple, beanstalkd powered, ESB framework
 - [retry](https://github.com/kelunik/retry) - A tiny library for retrying failed operations
 - [rate-limit](https://github.com/kelunik/rate-limit) - Rate Limiting
