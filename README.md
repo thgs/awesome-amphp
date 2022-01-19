@@ -15,6 +15,7 @@ A curated list of amphp packages
 - [amphp/mysql](https://github.com/amphp/mysql) - Async MySQL client
 - [amphp/postgres](https://github.com/amphp/postgres) - Async Postgres client
 - [rdb-php](https://github.com/spacetab-io/rdb-php) - Dead-simple async PHP migrations controlled from code
+- [amp-sqlite](https://github.com/vajexal/amp-sqlite) - SQLite client
 
 ## HTTP
 
@@ -110,11 +111,14 @@ A curated list of amphp packages
 - [mellon](https://github.com/kelunik/mellon) - Mellon is a bot based on Amp
 - [AsyncTwitter](https://github.com/PeeHaa/AsyncTwitter) - Just like regular Twitter, but async
 - [railway-fbp](https://github.com/darkwood-fr/railway-fbp) - Railway Flow Based Programming
+- [railway-fbp-symfony](https://github.com/darkwood-fr/railway-fbp-symfony) - Railway Flow Based Programming implementation for Symfony
 - [docker-amphp-php](https://github.com/spacetab-io/docker-amphp-php) - Docker image configured for amphp in production use
 - [dag](https://github.com/dbalabka/dag) - Directed acyclic graph of tasks implementation based on Amphp promises
 - [oauth](https://github.com/kelunik/oauth) - Async OAuth client
 - [jeeves](https://github.com/Room-11/Jeeves) - Chatbot for Stack Overflow
 - [paginate-php](https://github.com/spacetab-io/paginate-php) - Simple async paginator 
+- [amphp-clamav](https://github.com/Pato05/amphp-clamav) - A ClamAV wrapper
+- [amphp/windows-registry](https://github.com/amphp/windows-registry) - Windows Registry reader
 
 ## Projects using amphp
 
