@@ -9,6 +9,11 @@ A curated list of amphp packages
 ## Cache
 
 - [amphp/cache](https://github.com/amphp/cache) - A fiber-aware cache API
+- [HarmonyIO/cache](https://github.com/HarmonyIO/Cache) - Async caching library
+
+## CSV
+
+- [amp-csv](https://github.com/webgriffe/amp-csv) - CSV library to use with Amp PHP framework
 
 ## Database
 
@@ -16,6 +21,18 @@ A curated list of amphp packages
 - [amphp/postgres](https://github.com/amphp/postgres) - Async Postgres client
 - [rdb-php](https://github.com/spacetab-io/rdb-php) - Dead-simple async PHP migrations controlled from code
 - [amp-sqlite](https://github.com/vajexal/amp-sqlite) - SQLite client
+
+## DNS
+
+- [amphp/dns](https://github.com/amphp/dns) - Async DNS resolution
+- [dns-over-https](https://github.com/danog/dns-over-https) - Async DNS-over-HTTPS resolution
+
+## Event loop
+
+- [loop-block](https://github.com/kelunik/loop-block) - Detect blocking ticks in event loops
+- [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications
+- [danog/loop](https://github.com/danog/loop) - Loop abstraction for AMPHP
+
 
 ## HTTP
 
@@ -34,6 +51,7 @@ A curated list of amphp packages
 - [amphp/http-client-cookies](https://github.com/amphp/http-client-cookies) - Automatic cookie handling for amphp/http-client
 - [amphp/http-client-cache](https://github.com/amphp/http-client-cache) - Async HTTP cache for amphp/http-client
 - [amphp/http-client-psr7](https://github.com/amphp/http-client-psr7) - PSR-7 adapter for amphp/http-client
+- [HarmonyIO/http-client](https://github.com/HarmonyIO/Http-Client) - Async caching aware http client
 
 ## Jira
 
@@ -43,6 +61,10 @@ A curated list of amphp packages
 ## JSON
 
 - [streaming-json](https://github.com/kelunik/streaming-json) - A streaming JSON parser
+
+## Kafka
+
+- [kafka-php](https://github.com/weiboad/kafka-php) - Kafka client
 
 ## Logging
 
@@ -68,6 +90,11 @@ A curated list of amphp packages
 - [amphp/react-adapter](https://github.com/amphp/react-adapter) - Adapter to make any ReactPHP library compatible with Amp
 - [amphp/react-stream-adapter](https://github.com/amphp/react-stream-adapter) - Adapters to make React's and Amp's streams compatible
 
+## Redis
+
+- [amphp/redis](https://github.com/amphp/redis) - Redis Client
+- [rpq-server](https://github.com/charlesportwoodii/rpq-server) - RPQ: Simple, efficient, prioritized background processing for PHP
+
 ## RPC
 
 - [rpc-demo](https://github.com/kelunik/rpc-demo) - Simple RPC demo to handle socket input in worker processes
@@ -85,6 +112,7 @@ A curated list of amphp packages
 - [amphp/php-unit-util](https://github.com/amphp/phpunit-util) - Helper package to ease testing with PHPUnit
 - [async-unit](https://github.com/labrador-kennel/async-unit) - A PHP8 unit and integration testing framework with first-class support for the amphp Loop
 - [asynit](https://github.com/jolicode/asynit) - Asynchronous HTTP Request Testing Library for API or more
+- [mock-server](https://github.com/JBZoo/Mock-Server) - Flexible HTTP mocking application for testing and fast prototyping
 
 ## Websocket
 
@@ -96,17 +124,17 @@ A curated list of amphp packages
 ## Unsorted yet
 
 - [amphp/file](https://github.com/amphp/file) - Access to the filesystem
-- [amphp/redis](https://github.com/amphp/redis) - Redis Client
 - [amphp/beanstalk](https://github.com/amphp/beanstalk) - Beanstalk client
 - [Service bus](https://github.com/php-service-bus/service-bus) - Service Bus (publish-subscribe pattern) implementation
 - [amphp/byte-stream](https://github.com/amphp/byte-stream) - A non-blocking stream abstraction
 - [ACME](https://github.com/kelunik/acme) - Async ACME library
-- [amphp/dns](https://github.com/amphp/dns) - Async DNS resolution
 - [ridge](https://github.com/phpinnacle/ridge) - Pure asynchronous PHP implementation of the AMQP 0-9-1 protocol
 - [cassis](https://github.com/phpinnacle/cassis) - Pure PHP asynchronous implementation of the Cassandra V4 binary protocol
 - [Wind framework](https://github.com/wind-framework/wind-framework) - Pure PHP Coroutine Framework based on Workerman and Amphp
 - [ESB](https://github.com/webgriffe/esb) - Simple, beanstalkd powered, ESB framework
-- [retry](https://github.com/kelunik/retry) - A tiny library for retrying failed operations
+- [kelunik/retry](https://github.com/kelunik/retry) - A tiny library for retrying failed operations
+- [scriptfusion/retry](https://github.com/ScriptFUSION/Retry) - Retries failing operations.
+- [Porter](https://github.com/ScriptFUSION/Porter) - calable and durable all-purpose data import abstraction for publishing testable APIs and SDKs.
 - [rate-limit](https://github.com/kelunik/rate-limit) - Rate Limiting
 - [mellon](https://github.com/kelunik/mellon) - Mellon is a bot based on Amp
 - [AsyncTwitter](https://github.com/PeeHaa/AsyncTwitter) - Just like regular Twitter, but async
@@ -119,13 +147,32 @@ A curated list of amphp packages
 - [paginate-php](https://github.com/spacetab-io/paginate-php) - Simple async paginator 
 - [amphp-clamav](https://github.com/Pato05/amphp-clamav) - A ClamAV wrapper
 - [amphp/windows-registry](https://github.com/amphp/windows-registry) - Windows Registry reader
+- [ipc](https://github.com/danog/ipc) - Async IPC component
+- [pact-php](https://github.com/pact-foundation/pact-php) - Enables consumer driven contract testing, following the PACT foundation principles
+- [amphp/http-tunnel](https://github.com/amphp/http-tunnel) - Provides an HTTP CONNECT tunnel
+- [event-store-client](https://github.com/prooph/event-store-client) - Event Store Client 
+- [amp-fswatch](https://github.com/phpactor/amp-fswatch) - Filesystem watcher supporting multiple strategies
+- [micro](https://github.com/prooph/micro) - Functional prooph for microservices
+- [php-service-bus/mutex](https://github.com/php-service-bus/mutex) - PHP Mutex implementation
+- [amp-elasticsearch](https://github.com/webgriffe/amp-elasticsearch) - A non-blocking ElasticSearch client
+- [amp-magento](https://github.com/webgriffe/amp-magento) - Magento REST Api wrapper
+- [amphp/pipeline](https://packagist.org/packages/amphp/pipeline) - Asynchronous iterators and operators
+- [DaveRandom/Mutex](https://github.com/DaveRandom/Mutex) - Basic common mutex framework for amp 
+
 
 ## Projects using amphp
 
 - [stdinho](https://github.com/ostrolucky/stdinho) - Turn any STDIN/STDOUT into HTTP server
 - [mailgrab](https://github.com/PeeHaa/mailgrab) - Simple and easy to use catch-all SMTP mail server and debugging tool
 - [psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+- [grumphp](https://github.com/phpro/grumphp) - A composer plugin that enables source code quality checks
 
 ## Guides / Tutorials
 
 - [amphp/getting-started](https://github.com/amphp/getting-started) - A getting started guide for Amp
+
+
+## Alternative libraries
+
+- [ReactPHP](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O
+- [Tornado](https://github.com/BedrockStreaming/Tornado) - A library for asynchronous programming
