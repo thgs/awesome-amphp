@@ -22,6 +22,10 @@ A curated list of amphp packages
 - [rdb-php](https://github.com/spacetab-io/rdb-php) - Dead-simple async PHP migrations controlled from code
 - [amp-sqlite](https://github.com/vajexal/amp-sqlite) - SQLite client
 
+## Dependency Injection
+
+- [amphp/injector](https://github.com/amphp/injector) - A recursive dependency injector used to bootstrap and wire together S.O.L.I.D., object-oriented PHP applications
+
 ## DNS
 
 - [amphp/dns](https://github.com/amphp/dns) - Async DNS resolution
@@ -33,6 +37,10 @@ A curated list of amphp packages
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications
 - [danog/loop](https://github.com/danog/loop) - Loop abstraction for AMPHP
 
+## Filesystem
+
+- [amphp/file](https://github.com/amphp/file) - Access to the filesystem
+- [amp-fswatch](https://github.com/phpactor/amp-fswatch) - Filesystem watcher supporting multiple strategies
 
 ## HTTP
 
@@ -103,6 +111,10 @@ A curated list of amphp packages
 
 - [amphp/ssh](https://github.com/amphp/ssh) - Async SSH client
 
+## SMTP
+
+- [HarmonyIO/smtp-client](https://github.com/HarmonyIO/Smtp-Client) - Async SMTP client
+
 ## Telegram
 
 - [MadelineProto](https://github.com/danog/MadelineProto) - Client/Server API for the telegram MTProto protocol 
@@ -123,7 +135,6 @@ A curated list of amphp packages
 
 ## Unsorted yet
 
-- [amphp/file](https://github.com/amphp/file) - Access to the filesystem
 - [amphp/beanstalk](https://github.com/amphp/beanstalk) - Beanstalk client
 - [Service bus](https://github.com/php-service-bus/service-bus) - Service Bus (publish-subscribe pattern) implementation
 - [amphp/byte-stream](https://github.com/amphp/byte-stream) - A non-blocking stream abstraction
@@ -151,13 +162,13 @@ A curated list of amphp packages
 - [pact-php](https://github.com/pact-foundation/pact-php) - Enables consumer driven contract testing, following the PACT foundation principles
 - [amphp/http-tunnel](https://github.com/amphp/http-tunnel) - Provides an HTTP CONNECT tunnel
 - [event-store-client](https://github.com/prooph/event-store-client) - Event Store Client 
-- [amp-fswatch](https://github.com/phpactor/amp-fswatch) - Filesystem watcher supporting multiple strategies
 - [micro](https://github.com/prooph/micro) - Functional prooph for microservices
 - [php-service-bus/mutex](https://github.com/php-service-bus/mutex) - PHP Mutex implementation
 - [amp-elasticsearch](https://github.com/webgriffe/amp-elasticsearch) - A non-blocking ElasticSearch client
 - [amp-magento](https://github.com/webgriffe/amp-magento) - Magento REST Api wrapper
 - [amphp/pipeline](https://packagist.org/packages/amphp/pipeline) - Asynchronous iterators and operators
 - [DaveRandom/Mutex](https://github.com/DaveRandom/Mutex) - Basic common mutex framework for amp 
+- [amphp/socket](https://github.com/amphp/socket) - Non-blocking socket and TLS functionality
 
 
 ## Projects using amphp
