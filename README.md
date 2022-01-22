@@ -112,6 +112,7 @@ A curated list of amphp packages
 - [amphp/parallel](https://github.com/amphp/parallel) - Parallel processing
 - [amphp/parallel-functions](https://github.com/amphp/parallel-functions) - Simplified parallel processing
 - [amphp/cluster](https://github.com/amphp/cluster) - Building multi-core network applications
+- [danog/ipc](https://github.com/danog/ipc) - Async IPC component
 
 ## Music
 
@@ -207,7 +208,6 @@ A curated list of amphp packages
 - [railway-fbp-symfony](https://github.com/darkwood-fr/railway-fbp-symfony) - Railway Flow Based Programming implementation for Symfony
 - [dag](https://github.com/dbalabka/dag) - Directed acyclic graph of tasks implementation based on Amphp promises
 - [paginate-php](https://github.com/spacetab-io/paginate-php) - Simple async paginator 
-- [ipc](https://github.com/danog/ipc) - Async IPC component
 - [pact-php](https://github.com/pact-foundation/pact-php) - Enables consumer driven contract testing, following the PACT foundation principles
 - [event-store-client](https://github.com/prooph/event-store-client) - Event Store Client 
 - [micro](https://github.com/prooph/micro) - Functional prooph for microservices
