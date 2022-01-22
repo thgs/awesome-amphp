@@ -13,7 +13,8 @@ A curated list of amphp packages
 
 ## Bots
 
-- [async_tgbot](https://github.com/naftali100/async_tgbot) - async telelgram bots library based on amphp
+- [MadelineProto](https://github.com/danog/MadelineProto) - Client/Server API for the telegram MTProto protocol
+- [async_tgbot](https://github.com/naftali100/async_tgbot) - async telegram bot library based on amphp
 - [jeeves](https://github.com/Room-11/Jeeves) - Chatbot for Stack Overflow
 - [mellon](https://github.com/kelunik/mellon) - Mellon is a bot based on Amp
 
@@ -164,10 +165,6 @@ A curated list of amphp packages
 - [streaming-hash](https://github.com/kelunik/streaming-hash) - On the fly hashing for Amp's streams. 
 - [streaming-json](https://github.com/kelunik/streaming-json) - A streaming JSON parser
 - [styled-byte-stream](https://github.com/labrador-kennel/styled-byte-stream) - Write styled output to a terminal using amphp OutputStream! 
-
-## Telegram
-
-- [MadelineProto](https://github.com/danog/MadelineProto) - Client/Server API for the telegram MTProto protocol 
 
 ## Testing
 
