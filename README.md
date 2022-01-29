@@ -13,9 +13,10 @@ A curated list of amphp packages
 
 ## Bots
 
-- [MadelineProto](https://github.com/danog/MadelineProto) - Client/Server API for the telegram MTProto protocol
+- [async-chatter-bot](https://github.com/PeeHaa/async-chatter-bot) - It's like regular chatter-bot, only async.
 - [async_tgbot](https://github.com/naftali100/async_tgbot) - async telegram bot library based on amphp
 - [jeeves](https://github.com/Room-11/Jeeves) - Chatbot for Stack Overflow
+- [MadelineProto](https://github.com/danog/MadelineProto) - Client/Server API for the telegram MTProto protocol
 - [mellon](https://github.com/kelunik/mellon) - Mellon is a bot based on Amp
 
 ## Cache
@@ -62,6 +63,12 @@ A curated list of amphp packages
 - [danog/loop](https://github.com/danog/loop) - Loop abstraction for AMPHP
 - [loop-block](https://github.com/kelunik/loop-block) - Detect blocking ticks in event loops
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications
+
+## Examples / Demos
+
+- [grpc-web-chat](https://github.com/n1215/grpc-web-chat) - A simple chat application example using gRPC-Web. Including a PHP gRPC Server Streaming implementation with Amp.
+- [kelunik/demo-chat](https://github.com/kelunik/demo-chat) - A small demo chat based on Aerys.
+- [kelunik/rpc-demo](https://github.com/kelunik/rpc-demo) - Simple RPC demo to handle socket input in worker processes.
 
 ## Filesystem
 
@@ -129,6 +136,7 @@ A curated list of amphp packages
 ## OAuth
 
 - [oauth](https://github.com/kelunik/oauth) - Async OAuth client
+- [oauth-cli](https://github.com/kelunik/oauth-cli) - A small wrapper around kelunik/oauth to make OAuth for CLI applications simple.
 
 ## PDF
 
@@ -223,6 +231,16 @@ A curated list of amphp packages
 - [DaveRandom/Mutex](https://github.com/DaveRandom/Mutex) - Basic common mutex framework for amp 
 - [amphp-priority-emitter](https://github.com/JustBlackBird/amphp-priority-emitter) -  AMP Emitter with priority queue inside 
 - [amphp/serialization](https://github.com/amphp/serialization) - Serialization tools for IPC and data storage in PHP. 
+- [labrador-kennel/core](https://github.com/labrador-kennel/core) - A foundation for building async applications on top of amphp
+- [spacetab-io/amphp-support-php](https://github.com/spacetab-io/amphp-support-php) - Package to reduce code duplication across services.
+- [TokenSnitch](https://github.com/andrew-ld/TokenSnitch) - find leaked tokens from files
+- [yii2-queue](https://github.com/Mirocow/yii2-queue) - Yii 2.0 Non blocking queue extension.
+- [redis-mutex](https://github.com/kelunik/redis-mutex) - Mutex implementation using Redis.
+- [amphp-mqtt](https://github.com/markkimsal/amphp-mqtt) - MQTT client for Amp
+- [amphp/aerys-reverse](https://github.com/amphp/aerys-reverse) - Reverse HTTP proxy handler for Aerys
+- [async-irc-server](https://github.com/PeeHaa/async-irc-server) - An IRC server written using amphp components
+- [link-check](https://github.com/kelunik/link-check) - A small script to check one or several URLs for broken links.
+- [artax-composer](https://github.com/pensiero/artax-composer) - ZF2 service wrapper around amphp/artax client
 
 ## Projects using amphp
 
@@ -230,6 +248,7 @@ A curated list of amphp packages
 - [mailgrab](https://github.com/PeeHaa/mailgrab) - Simple and easy to use catch-all SMTP mail server and debugging tool
 - [psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [socket-inspect](https://github.com/PeeHaa/socket-inspect) - Reverse engineering and socket inspection tool
+- [spacetab-io/roastmap-php](https://github.com/spacetab-io/roastmap-php) - The purpose of the utility is preheating up Nginx cache through sitemap.xml
 - [stdinho](https://github.com/ostrolucky/stdinho) - Turn any STDIN/STDOUT into HTTP server
 
 ## Guides / Tutorials
