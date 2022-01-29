@@ -161,7 +161,7 @@ A curated list of amphp packages
 
 - [rpc-demo](https://github.com/kelunik/rpc-demo) - Simple RPC demo to handle socket input in worker processes
 
-## Pipeline
+## Pipeline
 
 - [amphp/pipeline](https://packagist.org/packages/amphp/pipeline) - Asynchronous iterators and operators
 
