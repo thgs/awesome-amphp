@@ -50,6 +50,12 @@ A curated list of amphp packages
 - [amphp/dns](https://github.com/amphp/dns) - Async DNS resolution
 - [dns-over-https](https://github.com/danog/dns-over-https) - Async DNS-over-HTTPS resolution
 
+## Events
+
+- [async-event](https://github.com/labrador-kennel/async-event) -  Triggering semantic application events within Amp's Event Loop
+- [event-store-client](https://github.com/prooph/event-store-client) - Event Store Client 
+- [micro](https://github.com/prooph/micro) - Functional prooph for microservices
+
 ## Event loop
 
 - [async-interop/event-loop](https://github.com/async-interop/event-loop) - An event loop interface for interoperability in PHP.
@@ -70,6 +76,7 @@ A curated list of amphp packages
 - [amphp/http-client-cookies](https://github.com/amphp/http-client-cookies) - Automatic cookie handling for amphp/http-client
 - [amphp/http-client-cache](https://github.com/amphp/http-client-cache) - Async HTTP cache for amphp/http-client
 - [amphp/http-client-psr7](https://github.com/amphp/http-client-psr7) - PSR-7 adapter for amphp/http-client
+- [awsyncronic](https://github.com/noerosell/awsyncronic) -  amphp/artax client http handler for Guzzle.
 - [HarmonyIO/http-client](https://github.com/HarmonyIO/Http-Client) - Async caching aware http client
 
 ### Proxy
@@ -146,6 +153,10 @@ A curated list of amphp packages
 
 - [rpc-demo](https://github.com/kelunik/rpc-demo) - Simple RPC demo to handle socket input in worker processes
 
+## Pipeline
+
+- [amphp/pipeline](https://packagist.org/packages/amphp/pipeline) - Asynchronous iterators and operators
+
 ## Socket
 
 - [amphp/socket](https://github.com/amphp/socket) - Non-blocking socket and TLS functionality
@@ -206,17 +217,12 @@ A curated list of amphp packages
 - [dag](https://github.com/dbalabka/dag) - Directed acyclic graph of tasks implementation based on Amphp promises
 - [paginate-php](https://github.com/spacetab-io/paginate-php) - Simple async paginator 
 - [pact-php](https://github.com/pact-foundation/pact-php) - Enables consumer driven contract testing, following the PACT foundation principles
-- [event-store-client](https://github.com/prooph/event-store-client) - Event Store Client 
-- [micro](https://github.com/prooph/micro) - Functional prooph for microservices
 - [php-service-bus/mutex](https://github.com/php-service-bus/mutex) - PHP Mutex implementation
 - [amp-elasticsearch](https://github.com/webgriffe/amp-elasticsearch) - A non-blocking ElasticSearch client
 - [amp-magento](https://github.com/webgriffe/amp-magento) - Magento REST Api wrapper
-- [amphp/pipeline](https://packagist.org/packages/amphp/pipeline) - Asynchronous iterators and operators
 - [DaveRandom/Mutex](https://github.com/DaveRandom/Mutex) - Basic common mutex framework for amp 
 - [amphp-priority-emitter](https://github.com/JustBlackBird/amphp-priority-emitter) -  AMP Emitter with priority queue inside 
 - [amphp/serialization](https://github.com/amphp/serialization) - Serialization tools for IPC and data storage in PHP. 
-- [awsyncronic](https://github.com/noerosell/awsyncronic) -  amphp/artax client http handler for Guzzle. 
-- [async-event](https://github.com/labrador-kennel/async-event) -  Triggering semantic application events within Amp's Event Loop
 
 ## Projects using amphp
 
