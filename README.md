@@ -75,6 +75,10 @@ A curated list of amphp packages
 - [amphp/file](https://github.com/amphp/file) - Access to the filesystem
 - [amp-fswatch](https://github.com/phpactor/amp-fswatch) - Filesystem watcher supporting multiple strategies
 
+## Framework
+
+- [labrador-kennel/http](https://github.com/labrador-kennel/http) - An HTTP microframework written on top of Labrador.
+
 ## HTTP
 
 ### Client
