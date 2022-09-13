@@ -196,6 +196,7 @@ A curated list of amphp packages
 - [asynit](https://github.com/jolicode/asynit) - Asynchronous HTTP Request Testing Library for API or more
 - [HarmonyIO/PHPUnit-Extension](https://github.com/HarmonyIO/PHPUnit-Extension) - Extends PHPUnit with async helpers 
 - [mock-server](https://github.com/JBZoo/Mock-Server) - Flexible HTTP mocking application for testing and fast prototyping
+- [http-client-test-interceptor](https://github.com/cspray/http-client-test-interceptor) - A testing framework to mock Requests sent with amphp/http-client
 
 ## Validation
 
