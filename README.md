@@ -40,6 +40,7 @@ A curated list of amphp packages
 ## Dependency Injection
 
 - [amphp/injector](https://github.com/amphp/injector) - A recursive dependency injector used to bootstrap and wire together S.O.L.I.D., object-oriented PHP applications
+- [catpaw-core](https://github.com/tncrazvan/catpaw-core) - An opinionated dependency injection library for AMPHP
 
 ## Docker
 
