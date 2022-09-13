@@ -247,6 +247,7 @@ A curated list of amphp packages
 - [link-check](https://github.com/kelunik/link-check) - A small script to check one or several URLs for broken links.
 - [artax-composer](https://github.com/pensiero/artax-composer) - ZF2 service wrapper around amphp/artax client
 - [blkhole](https://github.com/tuefekci/blkhole) - download management tool for AllDebrid cloud downloads, which allows automatic downloads to your local network.
+- [composite-future](https://github.com/labrador-kennel/composite-future) - Compose @amphp Futures and await them however you want with a type-safe CompositeFuture object
 
 ## Projects using amphp
 
