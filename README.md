@@ -248,6 +248,7 @@ A curated list of amphp packages
 - [artax-composer](https://github.com/pensiero/artax-composer) - ZF2 service wrapper around amphp/artax client
 - [blkhole](https://github.com/tuefekci/blkhole) - download management tool for AllDebrid cloud downloads, which allows automatic downloads to your local network.
 - [composite-future](https://github.com/labrador-kennel/composite-future) - Compose @amphp Futures and await them however you want with a type-safe CompositeFuture object
+- [etl-adapter-amphp](https://github.com/flow-php/etl-adapter-amphp) - AMP asynchronous processing provider for [Flow PHP](https://github.com/flow-php/flow)
 
 ## Projects using amphp
 
