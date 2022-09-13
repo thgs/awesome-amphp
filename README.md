@@ -241,6 +241,7 @@ A curated list of amphp packages
 - [async-irc-server](https://github.com/PeeHaa/async-irc-server) - An IRC server written using amphp components
 - [link-check](https://github.com/kelunik/link-check) - A small script to check one or several URLs for broken links.
 - [artax-composer](https://github.com/pensiero/artax-composer) - ZF2 service wrapper around amphp/artax client
+- [blkhole](https://github.com/tuefekci/blkhole) - download management tool for AllDebrid cloud downloads, which allows automatic downloads to your local network.
 
 ## Projects using amphp
 
