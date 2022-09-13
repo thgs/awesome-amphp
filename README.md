@@ -260,3 +260,4 @@ A curated list of amphp packages
 
 - [ReactPHP](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O
 - [Tornado](https://github.com/BedrockStreaming/Tornado) - A library for asynchronous programming
+- [logicalsteps/async](https://github.com/logicalsteps/async) - A compatible async implementation
