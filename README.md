@@ -259,6 +259,7 @@ A curated list of amphp packages
 - [socket-inspect](https://github.com/PeeHaa/socket-inspect) - Reverse engineering and socket inspection tool
 - [spacetab-io/roastmap-php](https://github.com/spacetab-io/roastmap-php) - The purpose of the utility is preheating up Nginx cache through sitemap.xml
 - [stdinho](https://github.com/ostrolucky/stdinho) - Turn any STDIN/STDOUT into HTTP server
+- [pact sdk](https://github.com/pact-foundation/pact-php) - PHP SDK for [Pact](https://pact.io)
 
 ## Guides / Tutorials
 
