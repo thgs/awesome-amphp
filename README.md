@@ -53,6 +53,14 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [amphp/dns](https://github.com/amphp/dns) - Async DNS resolution
 - [danog/dns-over-https](https://github.com/danog/dns-over-https) - Async DNS-over-HTTPS resolution
 
+## ElasticSearch
+
+- [webgriffe/amp-elasticsearch](https://github.com/webgriffe/amp-elasticsearch) - A non-blocking ElasticSearch client
+
+## Enterprise Service Bus (ESB)
+
+- [webgriffe/esb](https://github.com/webgriffe/esb) - Simple, beanstalkd powered, ESB framework
+
 ## Events
 
 - [labrador-kennel/async-event](https://github.com/labrador-kennel/async-event) -  Triggering semantic application events within Amp's Event Loop
@@ -130,6 +138,10 @@ A curated list of [amphp](https://amphp.org/) packages.
 
 - [amphp/log](https://github.com/amphp/log) - Non-blocking logging for PHP based on Amp and Monolog
 - [spacetab-io/logger-php](https://github.com/spacetab-io/logger-php) -  Simple pre-configured non-blocking logging based on Amp and Monolog
+
+## Magento
+
+- [webgriffe/amp-magento](https://github.com/webgriffe/amp-magento) - Magento REST Api wrapper
 
 ## Multiprocessing
 
@@ -231,7 +243,6 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [phpinnacle/ridge](https://github.com/phpinnacle/ridge) - Pure asynchronous PHP implementation of the AMQP 0-9-1 protocol
 - [phpinnacle/cassis](https://github.com/phpinnacle/cassis) - Pure PHP asynchronous implementation of the Cassandra V4 binary protocol
 - [wind-framework/wind-framework](https://github.com/wind-framework/wind-framework) - Pure PHP Coroutine Framework based on Workerman and Amphp
-- [webgriffe/esb](https://github.com/webgriffe/esb) - Simple, beanstalkd powered, ESB framework
 - [kelunik/rate-limit](https://github.com/kelunik/rate-limit) - Rate Limiting
 - [PeeHaa/AsyncTwitter](https://github.com/PeeHaa/AsyncTwitter) - Just like regular Twitter, but async
 - [darkwood-fr/railway-fbp](https://github.com/darkwood-fr/railway-fbp) - Railway Flow Based Programming
@@ -240,8 +251,6 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [spacetab-io/paginate-php](https://github.com/spacetab-io/paginate-php) - Simple async paginator 
 - [pact-foundation/pact-php](https://github.com/pact-foundation/pact-php) - Enables consumer driven contract testing, following the PACT foundation principles
 - [php-service-bus/mutex](https://github.com/php-service-bus/mutex) - PHP Mutex implementation
-- [webgriffe/amp-elasticsearch](https://github.com/webgriffe/amp-elasticsearch) - A non-blocking ElasticSearch client
-- [webgriffe/amp-magento](https://github.com/webgriffe/amp-magento) - Magento REST Api wrapper
 - [DaveRandom/Mutex](https://github.com/DaveRandom/Mutex) - Basic common mutex framework for amp 
 - [JustBlackBird/amphp-priority-emitter](https://github.com/JustBlackBird/amphp-priority-emitter) -  AMP Emitter with priority queue inside 
 - [amphp/serialization](https://github.com/amphp/serialization) - Serialization tools for IPC and data storage in PHP. 
