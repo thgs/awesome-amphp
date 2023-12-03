@@ -213,7 +213,7 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [kelunik/streaming-json](https://github.com/kelunik/streaming-json) - A streaming JSON parser
 - [labrador-kennel/styled-byte-stream](https://github.com/labrador-kennel/styled-byte-stream) - Write styled output to a terminal using amphp OutputStream! 
 
-## Throttling
+## Throttling
 
 - [ScriptFUSION/async-throttle](https://github.com/ScriptFUSION/Async-Throttle) - Throttles async work throughput
 - [kelunik/rate-limit](https://github.com/kelunik/rate-limit) - Rate Limiting
