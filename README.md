@@ -321,6 +321,8 @@ A curated list of [amphp](https://amphp.org/) packages.
 
 ## Projects using amphp
 
+- [Aspectus-PHP/terminal](https://github.com/Aspectus-PHP/terminal) - A terminal device abstraction based on Amphp
+- [Aspectus-PHP/aspectus](https://github.com/Aspectus-PHP/aspectus) - A TUI framework based on Amphp
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A composer plugin that enables source code quality checks
 - [PeeHaa/mailgrab](https://github.com/PeeHaa/mailgrab) - Simple and easy to use catch-all SMTP mail server and debugging tool
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
