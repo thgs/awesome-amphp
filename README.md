@@ -210,6 +210,7 @@ A curated list of [amphp](https://amphp.org/) packages.
 ## Throttling
 
 - [ScriptFUSION/async-throttle](https://github.com/ScriptFUSION/Async-Throttle) - Throttles async work throughput
+- [kelunik/rate-limit](https://github.com/kelunik/rate-limit) - Rate Limiting
 
 ## Testing
 
@@ -243,7 +244,6 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [phpinnacle/ridge](https://github.com/phpinnacle/ridge) - Pure asynchronous PHP implementation of the AMQP 0-9-1 protocol
 - [phpinnacle/cassis](https://github.com/phpinnacle/cassis) - Pure PHP asynchronous implementation of the Cassandra V4 binary protocol
 - [wind-framework/wind-framework](https://github.com/wind-framework/wind-framework) - Pure PHP Coroutine Framework based on Workerman and Amphp
-- [kelunik/rate-limit](https://github.com/kelunik/rate-limit) - Rate Limiting
 - [PeeHaa/AsyncTwitter](https://github.com/PeeHaa/AsyncTwitter) - Just like regular Twitter, but async
 - [darkwood-fr/railway-fbp](https://github.com/darkwood-fr/railway-fbp) - Railway Flow Based Programming
 - [darkwood-fr/railway-fbp-symfony](https://github.com/darkwood-fr/railway-fbp-symfony) - Railway Flow Based Programming implementation for Symfony
