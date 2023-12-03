@@ -8,9 +8,11 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [Pato05/amphp-clamav](https://github.com/Pato05/amphp-clamav) - A ClamAV wrapper
 - [PeeHaa/async-virus-scan](https://github.com/PeeHaa/async-virus-scan) -  Async library for querying online virus scanners
 
+
 ## Arduino
 
 - [kelunik/amphp-arduino](https://github.com/kelunik/amphp-arduino) - Demo for controlling an Arduino with PHP
+
 
 ## Bots
 
@@ -20,14 +22,17 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Client/Server API for the telegram MTProto protocol
 - [kelunik/mellon](https://github.com/kelunik/mellon) - Mellon is a bot based on Amp
 
+
 ## Cache
 
 - [amphp/cache](https://github.com/amphp/cache) - A fiber-aware cache API
 - [HarmonyIO/cache](https://github.com/HarmonyIO/Cache) - Async caching library
 
+
 ## CSV
 
 - [webgriffe/amp-csv](https://github.com/webgriffe/amp-csv) - CSV library to use with Amp PHP framework
+
 
 ## Database
 
@@ -38,34 +43,41 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [spacetab-io/rdb-php](https://github.com/spacetab-io/rdb-php) - Dead-simple async PHP migrations controlled from code
 - [dbalabka/doctrine-mysql-fiber-driver](https://github.com/dbalabka/doctrine-mysql-fiber-driver) - Doctrine MySQL driver with Fiber support based on Amphp 
 
+
 ## Dependency Injection
 
 - [amphp/injector](https://github.com/amphp/injector) - A recursive dependency injector used to bootstrap and wire together S.O.L.I.D., object-oriented PHP applications
 - [tncrazvan/catpaw-core](https://github.com/tncrazvan/catpaw-core) - An opinionated dependency injection library for AMPHP
+
 
 ## Docker
 
 - [spacetab-io/docker-amphp-php](https://github.com/spacetab-io/docker-amphp-php) - Docker image configured for amphp in production use
 - [caseycs/php-alpine-event](https://github.com/caseycs/php-alpine-event) -  Minimalistic (60Mb!) docker image based on php:7.1-cli-alpine with event extension 
 
+
 ## DNS
 
 - [amphp/dns](https://github.com/amphp/dns) - Async DNS resolution
 - [danog/dns-over-https](https://github.com/danog/dns-over-https) - Async DNS-over-HTTPS resolution
 
+
 ## ElasticSearch
 
 - [webgriffe/amp-elasticsearch](https://github.com/webgriffe/amp-elasticsearch) - A non-blocking ElasticSearch client
 
-## Enterprise Service Bus (ESB)
+
+## Enterprise Service Bus
 
 - [webgriffe/esb](https://github.com/webgriffe/esb) - Simple, beanstalkd powered, ESB framework
+
 
 ## Events
 
 - [labrador-kennel/async-event](https://github.com/labrador-kennel/async-event) -  Triggering semantic application events within Amp's Event Loop
 - [prooph/event-store-client](https://github.com/prooph/event-store-client) - Event Store Client 
 - [prooph/micro](https://github.com/prooph/micro) - Functional prooph for microservices
+
 
 ## Event loop
 
@@ -74,24 +86,30 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [kelunik/loop-block](https://github.com/kelunik/loop-block) - Detect blocking ticks in event loops
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications
 
+
 ## Examples / Demos
 
 - [n1215/grpc-web-chat](https://github.com/n1215/grpc-web-chat) - A simple chat application example using gRPC-Web. Including a PHP gRPC Server Streaming implementation with Amp.
 - [kelunik/demo-chat](https://github.com/kelunik/demo-chat) - A small demo chat based on Aerys.
 - [kelunik/rpc-demo](https://github.com/kelunik/rpc-demo) - Simple RPC demo to handle socket input in worker processes.
 
+
 ## Filesystem
 
 - [amphp/file](https://github.com/amphp/file) - Access to the filesystem
 - [phpactor/amp-fswatch](https://github.com/phpactor/amp-fswatch) - Filesystem watcher supporting multiple strategies
 
+
 ## Framework
 
 - [labrador-kennel/http](https://github.com/labrador-kennel/http) - An HTTP microframework written on top of Labrador.
 
+
 ## HTTP
 
+
 ### Client
+
 
 - [amphp/http-client](https://github.com/amphp/http-client) - Async HTTP/1.1+2 client
 - [amphp/http-client-cookies](https://github.com/amphp/http-client-cookies) - Automatic cookie handling for amphp/http-client
@@ -100,14 +118,17 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [noerosell/awsyncronic](https://github.com/noerosell/awsyncronic) -  amphp/artax client http handler for Guzzle.
 - [HarmonyIO/http-client](https://github.com/HarmonyIO/Http-Client) - Async caching aware http client
 
+
 ### Proxy
 
 - [xtrime-ru/http-proxy](https://github.com/xtrime-ru/http-proxy) - Forward http proxy server built with async amphp framework. 
+
 
 ### Routing
 
 - [amphp/http-server-router](https://github.com/amphp/http-server-router) - A router
 - [mnavarrocarter/amp-http-router](https://github.com/mnavarrocarter/amp-http-router) - An asynchronous HTTP routing engine for Amp based applications
+
 
 ### Server
 
@@ -117,31 +138,38 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [amphp/http-server-static-content](https://github.com/amphp/http-server-static-content) - A static content responder for amphp/http-server
 - [labrador-kennel/http-cors](https://github.com/labrador-kennel/http-cors) - Middleware for amphp/http-server to handle CORS requests
 
+
 ### Tunnel
 
 - [amphp/http-tunnel](https://github.com/amphp/http-tunnel) - Provides an HTTP CONNECT tunnel
 
+
 ## Importing
 
 - [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - calable and durable all-purpose data import abstraction for publishing testable APIs and SDKs.
+
 
 ## Jira
 
 - [spacetab-io/jira-tempo-sdk-php](https://github.com/spacetab-io/jira-tempo-sdk-php) - Asynchronous PHP Jira Tempo SDK
 - [spacetab-io/jira-sdk-php](https://github.com/spacetab-io/jira-sdk-php) - Asynchronous PHP Jira SDK
 
+
 ## Kafka
 
 - [weiboad/kafka-php](https://github.com/weiboad/kafka-php) - Kafka client
+
 
 ## Logging
 
 - [amphp/log](https://github.com/amphp/log) - Non-blocking logging for PHP based on Amp and Monolog
 - [spacetab-io/logger-php](https://github.com/spacetab-io/logger-php) -  Simple pre-configured non-blocking logging based on Amp and Monolog
 
+
 ## Magento
 
 - [webgriffe/amp-magento](https://github.com/webgriffe/amp-magento) - Magento REST Api wrapper
+
 
 ## Multiprocessing
 
@@ -151,59 +179,73 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [amphp/cluster](https://github.com/amphp/cluster) - Building multi-core network applications
 - [danog/ipc](https://github.com/danog/ipc) - Async IPC component
 
-## Mutex
 
+## Synchronisation
+
+- [amphp/sync](https://github.com/amphp/sync) - Mutex, Semaphore, Parcel, Channel implementations
 - [php-service-bus/mutex](https://github.com/php-service-bus/mutex) - PHP Mutex implementation
 - [DaveRandom/Mutex](https://github.com/DaveRandom/Mutex) - Basic common mutex framework for amp
-- [kelunik/redis-mutex](https://github.com/kelunik/redis-mutex) - Mutex implementation using Redis.
+
 
 ## Music
 
 - [ekinhbayar/gitamp](https://github.com/ekinhbayar/gitamp) - Listen to music generated by events across github
+
 
 ## OAuth
 
 - [kelunik/oauth](https://github.com/kelunik/oauth) - Async OAuth client
 - [kelunik/oauth-cli](https://github.com/kelunik/oauth-cli) - A small wrapper around kelunik/oauth to make OAuth for CLI applications simple.
 
+
 ## PDF
 
 - [spacetab-io/wkhtmltopdf-php](https://github.com/spacetab-io/wkhtmltopdf-php) - Non-blocking PHP wrapper for wkhtmltopdf
+
 
 ## ReactPHP
 
 - [amphp/react-adapter](https://github.com/amphp/react-adapter) - Adapter to make any ReactPHP library compatible with Amp
 - [amphp/react-stream-adapter](https://github.com/amphp/react-stream-adapter) - Adapters to make React's and Amp's streams compatible
 
+
 ## Redis
 
 - [amphp/redis](https://github.com/amphp/redis) - Redis Client
 - [charlesportwoodii/rpq-server](https://github.com/charlesportwoodii/rpq-server) - RPQ: Simple, efficient, prioritized background processing for PHP
+- [kelunik/redis-mutex](https://github.com/kelunik/redis-mutex) - Mutex implementation using Redis.
+
 
 ## Retrying
 
 - [kelunik/retry](https://github.com/kelunik/retry) - A tiny library for retrying failed operations
 - [ScriptFUSION/retry](https://github.com/ScriptFUSION/Retry) - Retries failing operations.
 
+
 ## RPC
 
 - [kelunik/rpc-demo](https://github.com/kelunik/rpc-demo) - Simple RPC demo to handle socket input in worker processes
+
 
 ## Pipeline
 
 - [amphp/pipeline](https://packagist.org/packages/amphp/pipeline) - Asynchronous iterators and operators
 
+
 ## Socket
 
 - [amphp/socket](https://github.com/amphp/socket) - Non-blocking socket and TLS functionality
+
 
 ## SMTP
 
 - [HarmonyIO/smtp-client](https://github.com/HarmonyIO/Smtp-Client) - Async SMTP client
 
+
 ## SSH
 
 - [amphp/ssh](https://github.com/amphp/ssh) - Async SSH client
+
 
 ## Streams
 
@@ -213,10 +255,12 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [kelunik/streaming-json](https://github.com/kelunik/streaming-json) - A streaming JSON parser
 - [labrador-kennel/styled-byte-stream](https://github.com/labrador-kennel/styled-byte-stream) - Write styled output to a terminal using amphp OutputStream! 
 
+
 ## Throttling
 
 - [ScriptFUSION/async-throttle](https://github.com/ScriptFUSION/Async-Throttle) - Throttles async work throughput
 - [kelunik/rate-limit](https://github.com/kelunik/rate-limit) - Rate Limiting
+
 
 ## Testing
 
@@ -227,15 +271,18 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [JBZoo/Mock-Server](https://github.com/JBZoo/Mock-Server) - Flexible HTTP mocking application for testing and fast prototyping
 - [cspray/http-client-test-interceptor](https://github.com/cspray/http-client-test-interceptor) - A testing framework to mock Requests sent with amphp/http-client
 
+
 ## Validation
 
 - [spacetab-io/body-validator-php](https://github.com/spacetab-io/body-validator-php) - Package to simplify validation of request body
+
 
 ## Websocket
 
 - [amphp/websocket-server](https://github.com/amphp/websocket-server) - WebSocket component for amphp/http-server
 - [amphp/websocket-client](https://github.com/amphp/websocket-client) - Async WebSocket client
 - [cspray/websocket-commands](https://github.com/cspray/websocket-commands) - A micro-framework to facilitate building Websocket powered applications
+
 
 ## Windows
 
@@ -271,6 +318,7 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [labrador-kennel/composite-future](https://github.com/labrador-kennel/composite-future) - Compose @amphp Futures and await them however you want with a type-safe CompositeFuture object
 - [flow-php/etl-adapter-amphp](https://github.com/flow-php/etl-adapter-amphp) - AMP asynchronous processing provider for [Flow PHP](https://github.com/flow-php/flow)
 
+
 ## Projects using amphp
 
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A composer plugin that enables source code quality checks
@@ -280,6 +328,7 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [spacetab-io/roastmap-php](https://github.com/spacetab-io/roastmap-php) - The purpose of the utility is preheating up Nginx cache through sitemap.xml
 - [ostrolucky/stdinho](https://github.com/ostrolucky/stdinho) - Turn any STDIN/STDOUT into HTTP server
 - [pact-foundation/pact-php](https://github.com/pact-foundation/pact-php) - PHP SDK for [Pact](https://pact.io)
+
 
 ## Guides / Tutorials
 
