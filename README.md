@@ -14,7 +14,7 @@ A curated list of [amphp](https://amphp.org/) packages.
 
 ## Bots
 
-- [PeeHaaasync-chatter-bot](https://github.com/PeeHaa/async-chatter-bot) - It's like regular chatter-bot, only async.
+- [PeeHaa/async-chatter-bot](https://github.com/PeeHaa/async-chatter-bot) - It's like regular chatter-bot, only async.
 - [naftali100/async_tgbot](https://github.com/naftali100/async_tgbot) - async telegram bot library based on amphp
 - [Room-11/jeeves](https://github.com/Room-11/Jeeves) - Chatbot for Stack Overflow
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Client/Server API for the telegram MTProto protocol
