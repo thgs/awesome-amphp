@@ -205,7 +205,8 @@ A curated list of [amphp](https://amphp.org/) packages.
 
 ## ReactPHP
 
-- [amphp/react-adapter](https://github.com/amphp/react-adapter) - Adapter to make any ReactPHP library compatible with Amp
+- [amphp/react-adapter](https://github.com/amphp/react-adapter) - Adapter to make any ReactPHP library compatible with Amp v2
+- [revoltphp/event-loop-adapter-react](https://github.com/revoltphp/event-loop-adapter-react) - Adapter to be used with Amp v3
 - [amphp/react-stream-adapter](https://github.com/amphp/react-stream-adapter) - Adapters to make React's and Amp's streams compatible
 
 
