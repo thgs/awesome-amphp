@@ -1,5 +1,6 @@
 # awesome-amphp
-A curated list of amphp packages
+
+A curated list of [amphp](https://amphp.org/) packages.
 
 
 ## Anti-virus
@@ -112,6 +113,10 @@ A curated list of amphp packages
 
 - [amphp/http-tunnel](https://github.com/amphp/http-tunnel) - Provides an HTTP CONNECT tunnel
 
+## Importing
+
+- [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - calable and durable all-purpose data import abstraction for publishing testable APIs and SDKs.
+
 ## Jira
 
 - [spacetab-io/jira-tempo-sdk-php](https://github.com/spacetab-io/jira-tempo-sdk-php) - Asynchronous PHP Jira Tempo SDK
@@ -190,6 +195,10 @@ A curated list of amphp packages
 - [kelunik/streaming-json](https://github.com/kelunik/streaming-json) - A streaming JSON parser
 - [labrador-kennel/styled-byte-stream](https://github.com/labrador-kennel/styled-byte-stream) - Write styled output to a terminal using amphp OutputStream! 
 
+## Throttling
+
+- [ScriptFUSION/async-throttle](https://github.com/ScriptFUSION/Async-Throttle) - Throttles async work throughput
+
 ## Testing
 
 - [amphp/php-unit-util](https://github.com/amphp/phpunit-util) - Helper package to ease testing with PHPUnit
@@ -223,7 +232,6 @@ A curated list of amphp packages
 - [phpinnacle/cassis](https://github.com/phpinnacle/cassis) - Pure PHP asynchronous implementation of the Cassandra V4 binary protocol
 - [wind-framework/wind-framework](https://github.com/wind-framework/wind-framework) - Pure PHP Coroutine Framework based on Workerman and Amphp
 - [webgriffe/esb](https://github.com/webgriffe/esb) - Simple, beanstalkd powered, ESB framework
-- [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - calable and durable all-purpose data import abstraction for publishing testable APIs and SDKs.
 - [kelunik/rate-limit](https://github.com/kelunik/rate-limit) - Rate Limiting
 - [PeeHaa/AsyncTwitter](https://github.com/PeeHaa/AsyncTwitter) - Just like regular Twitter, but async
 - [darkwood-fr/railway-fbp](https://github.com/darkwood-fr/railway-fbp) - Railway Flow Based Programming
