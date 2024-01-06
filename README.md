@@ -144,6 +144,11 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [amphp/http-tunnel](https://github.com/amphp/http-tunnel) - Provides an HTTP CONNECT tunnel
 
 
+## IRC
+
+- [PeeHaa/async-irc-server](https://github.com/PeeHaa/async-irc-server) - An IRC server written using amphp components
+
+
 ## Importing
 
 - [ScriptFUSION/Porter](https://github.com/ScriptFUSION/Porter) - calable and durable all-purpose data import abstraction for publishing testable APIs and SDKs.
@@ -202,12 +207,9 @@ A curated list of [amphp](https://amphp.org/) packages.
 
 - [spacetab-io/wkhtmltopdf-php](https://github.com/spacetab-io/wkhtmltopdf-php) - Non-blocking PHP wrapper for wkhtmltopdf
 
+## QUIC
 
-## ReactPHP
-
-- [amphp/react-adapter](https://github.com/amphp/react-adapter) - Adapter to make any ReactPHP library compatible with Amp v2
-- [revoltphp/event-loop-adapter-react](https://github.com/revoltphp/event-loop-adapter-react) - Adapter to be used with Amp v3
-- [amphp/react-stream-adapter](https://github.com/amphp/react-stream-adapter) - Adapters to make React's and Amp's streams compatible
+- [amphp/quic](https://github.com/amphp/quic) - An implementation of QUIC using FFI and [Quiche](https://github.com/cloudflare/quiche)
 
 
 ## Redis
@@ -290,6 +292,14 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [amphp/windows-registry](https://github.com/amphp/windows-registry) - Windows Registry reader
 
 
+## Integration & adapters
+
+- [danog/php-tokio](https://github.com/danog/php-tokio) - Use any async Rust library from PHP
+- [amphp/react-adapter](https://github.com/amphp/react-adapter) - Adapter to make any ReactPHP library compatible with Amp v2
+- [revoltphp/event-loop-adapter-react](https://github.com/revoltphp/event-loop-adapter-react) - Adapter to be used with Amp v3
+- [amphp/react-stream-adapter](https://github.com/amphp/react-stream-adapter) - Adapters to make React's and Amp's streams compatible
+
+
 ## Unsorted yet
 
 - [amphp/beanstalk](https://github.com/amphp/beanstalk) - Beanstalk client
@@ -312,7 +322,6 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [Mirocow/yii2-queue](https://github.com/Mirocow/yii2-queue) - Yii 2.0 Non blocking queue extension.
 - [markkimsal/amphp-mqtt](https://github.com/markkimsal/amphp-mqtt) - MQTT client for Amp
 - [amphp/aerys-reverse](https://github.com/amphp/aerys-reverse) - Reverse HTTP proxy handler for Aerys
-- [PeeHaa/async-irc-server](https://github.com/PeeHaa/async-irc-server) - An IRC server written using amphp components
 - [kelunik/link-check](https://github.com/kelunik/link-check) - A small script to check one or several URLs for broken links.
 - [pensiero/artax-composer](https://github.com/pensiero/artax-composer) - ZF2 service wrapper around amphp/artax client
 - [tuefekci/blkhole](https://github.com/tuefekci/blkhole) - download management tool for AllDebrid cloud downloads, which allows automatic downloads to your local network.
