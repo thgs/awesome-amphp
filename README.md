@@ -39,7 +39,7 @@ A curated list of [amphp](https://amphp.org/) packages.
 - [amphp/mysql](https://github.com/amphp/mysql) - Async MySQL client
 - [amphp/mysql-dbal](https://github.com/amphp/mysql-dbal) - Doctrine MySQL driver
 - [amphp/postgres](https://github.com/amphp/postgres) - Async Postgres client
-- [amp-sqlite](https://github.com/vajexal/amp-sqlite) - SQLite client
+- [vajexal/amp-sqlite](https://github.com/vajexal/amp-sqlite) - SQLite client
 - [spacetab-io/rdb-php](https://github.com/spacetab-io/rdb-php) - Dead-simple async PHP migrations controlled from code
 - [dbalabka/doctrine-mysql-fiber-driver](https://github.com/dbalabka/doctrine-mysql-fiber-driver) - Doctrine MySQL driver with Fiber support based on Amphp 
 
